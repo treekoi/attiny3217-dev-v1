@@ -42,7 +42,7 @@ Double-check the logical connections:
 
 ## Licensing & CLA
 
-By contributing to this repository, you agree to the terms of our **Contributor License Agreement (CLA)**. This ensures that while this version remains open source (AGPL), ElectroSpark Innovations retains the right to relicense future hardened versions or commercial derivatives if necessary.
+By contributing to this repository, you agree to the terms of our **Contributor License Agreement (CLA)**. This ensures that while this version remains open source (AGPL), ElectroSpark retains the right to relicense future hardened versions or commercial derivatives if necessary.
 
 ## Questions?
 
